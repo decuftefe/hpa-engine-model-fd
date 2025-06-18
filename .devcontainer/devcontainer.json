@@ -1,0 +1,9 @@
+{
+  "name": "CadQuery",
+  "image": "cadquery/cadquery",
+  "customizations": {
+    "vscode": {
+      "extensions": ["ms-python.python"]
+    }
+  }
+}
